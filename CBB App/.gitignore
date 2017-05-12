@@ -1,0 +1,11 @@
+# general file types to be ignored
+*.DS_Store
+CBB/*.DS_Store
+CBB/CBB.xcodeproj/project.xcworkspace/xcuserdata/
+Server/*.DS_Store
+
+# Server files
+Server/build/
+Server/server.crt
+Server/server.csr
+Server/server.key
